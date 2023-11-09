@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module ausazkoZenbaki3Ariketa {
+}
